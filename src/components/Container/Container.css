@@ -1,0 +1,6 @@
+.main-container{
+    background-color: var(--color-dark);
+    padding: var(--padding-priamry);
+    border-radius: var(--border-primary);
+    color: var(--color-light);
+}
